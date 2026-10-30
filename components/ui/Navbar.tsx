@@ -36,7 +36,7 @@ export default function Navbar() {
     >
       <nav className="max-w-7xl mx-auto px-6 md:px-8 flex justify-between items-center">
 
-        <a href="#hero" className="font-display font-bold text-2xl tracking-tighter text-white transition-colors duration-500">
+        <a href="#home" className="font-display font-bold text-2xl tracking-tighter text-white transition-colors duration-500">
           bẹrẹ
         </a>
 
